@@ -1,4 +1,4 @@
-# Junior Developer Resume 
+# Junior Developer Resume  
 ## Contact Info:
 * First Name, Last Name: **Liudmyla Melnychuk**
 * Phone number: +48 733 519 287
