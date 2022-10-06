@@ -22,7 +22,7 @@ I want to get a job as a Juniour Javascript Front-end Developer. In my opinion t
 * Adobe Photoshop
 * Sublime Text, Visual Studio
 ## Code examples
-My code examples are located here.
+My code examples are located *[here](https://github.com/milana1726/)*.
 ## Experience
 At present, my experience is solving tasks on the online course Javascript/Front-end Mentoring Program at The Rolling Scopes School. 
 
