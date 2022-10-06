@@ -36,7 +36,7 @@ I was educated as a System Programmer at the Chernihiv National Polytechnical Un
 * Maximilian Schwarzmuller "Angular - The Complete Guide [2021 Edition]" - in progress.
 
 ## Languages:
-* English: A2/B1 (Pre-Intermediate);
+* English: A2/B1 (Pre-Intermediate). Completed course of Business English level B2 at Pedagogical University of Krakow (December 2019 - June 2020);
 * Polish: B1 (Intermidiate);
 * Russian: native;
 * Ukrainian: native.
