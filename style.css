@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+nav {
+    background-color:#948183;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid #3e323e;
+    overflow: hidden;
+}
+
+.nav_menu {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.nav_item {
+    display: inline-block;
+    color: #3e323e;
+    padding: 10px 20px;
+}
+
+.nav_item:hover {
+    color: #f9f9f9;
+    background-color: rgba(62, 50, 62, 0.3);
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid rgba(62, 50, 62, 0.3);
+}
+
+main .container {
+    display: flex;
+    flex-direction: row;
+}
+
+.cv_about {
+    max-width: 400px;
+    background-color: #e5d6d3;
+    margin: 0;
+    padding: 15px 0 0 0;
+}
+
+.cv_info {
+    max-width: 800px;
+    background-color: #f9f9f9;
+}
+
+.photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin: 20px auto 11px 65px;
+    background-color: #3e323e;
+}
+
+.photo:hover {
+    transform: scale(1.1);
+}
+
+.icon {
+    height: 15px;
+    padding: 0;
+    margin: 0 20px;
+}
+
+.section {
+    margin: 0 40px;
+}
+
+.section_name {
+    background-color: #3e323e;
+    color: #f9f9f9;
+    margin: 0 0 45px 0;
+    padding: 0;
+    height: 200px;
+}
+
+.section_name .section_content {
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 0;
+}
+
+.hidden{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+h2 {
+    margin-bottom: 0;
+    padding: 7px 0;
+    font-size: 18px;
+    text-align: left;
+    color: #3e323e;
+    text-transform: uppercase;
+}
+
+.text_block {
+    margin-top: 0;
+    padding: 0;
+    color: #3e323e;
+    font-size: 14px;
+    text-align: justify;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+#skills .text_block {
+    display: flex;
+    flex-direction: row;
+}
+
+#skills .text_block div {
+    margin-right: 30px;
+}
+
+#languages {
+    padding-bottom: 15px;
+}
+
+footer .container{
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #3e323e;
+    background-color: #948183;
+}
+
+.logo {
+    margin-top: 10px;
+    height: 25px;
+}
