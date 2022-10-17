@@ -139,10 +139,6 @@ ul {
     padding-left: 15px;
 }
 
-.code {
-    width: 270px;
-}
-
 #skills .text_block {
     display: flex;
     flex-direction: row;
